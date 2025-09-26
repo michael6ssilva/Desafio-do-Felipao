@@ -1,0 +1,23 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "Este é um projeto prático em **JavaScript**, desenvolvido como desafio da DIO, que classifica heróis de acordo com sua **quantidade de experiência (XP)** em diferentes níveis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael6ssilva/Desafio-do-Felipao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael6ssilva/Desafio-do-Felipao/issues"
+  },
+  "homepage": "https://github.com/michael6ssilva/Desafio-do-Felipao#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
